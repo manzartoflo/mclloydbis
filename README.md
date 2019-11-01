@@ -1,2 +1,2 @@
 # Mclloydbis
-# Run only "assignent.py"
+# Run only "assigment.py"
